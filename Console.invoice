@@ -1,0 +1,19 @@
+public class Main {
+    public static void main(String args[]){
+        //Store Information
+        System.out.println("SweetTaste MiniDonut\t\t\t\t08/09/24");
+        System.out.println("San Nicolas, Poblacion East, Pangasinan");
+        
+        //Items Reciept;
+        System.out.println("__________________________________________________________\n");
+        System.out.println("Item\t\t\t\tQuantity\tPrice");
+        System.out.println("__________________________________________________________\n");
+        System.out.println("Chocolate\t\t\t6pcs\t\t₱50");
+        System.out.println("Strawberry\t\t\t6pcs\t\t₱70");
+        System.out.println("Glazed\t\t\t\t12pcs\t\t₱90");
+        System.out.println("__________________________________________________________\n");
+        System.out.println("TOTAL\t\t\t\t\t\t210");
+        System.out.println("\n\n\nThank you!\nMiniDonut\nFrom SweetTaste");       
+    
+    }
+}
